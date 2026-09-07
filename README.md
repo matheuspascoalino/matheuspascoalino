@@ -1,16 +1,25 @@
-## Hi there 👋
+Meu nome é Matheus Pascoalino
 
-<!--
-**matheuspascoalino/matheuspascoalino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Estudante de Ciência da Computação na UNIP - São José dos Campos
+Técnico em Informática formado pela Escola Opção
+Experiência em implantação de sistemas (Plataforma Educatech) na WM Tecnologia
+Buscando estágio em Desenvolvimento Web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Tecnologias que utilizo
+
+[HTML5]
+[CSS3]
+[PHP]
+[Python]
+[MySQL]
+[C]
+
+ Projetos
+
+🌐 **UPB - Unidos Pelo Bem** — Plataforma web de gestão de doações humanitárias com geolocalização (TCC)
+
+Contato
+
+[LinkedIn]: https://www.linkedin.com/in/matheuspascoalino/
