@@ -1,11 +1,11 @@
-# Olá! Eu sou o Matheus Pascoalino 👋
+# Olá! Eu sou o Matheus Pascoalino 
 
 ## Sobre mim
 
-- 🎓 Estudante de **Ciência da Computação** na UNIP - São José dos Campos
-- 🖥️ **Técnico em Informática** formado pela Escola Opção
-- 💼 Experiência em implantação de sistemas (Plataforma Educatech) na WM Tecnologia
-- 🎯 Buscando estágio em **Desenvolvimento Web**
+-  Estudante de **Ciência da Computação** na UNIP - São José dos Campos
+-  **Técnico em Informática** formado pela Escola Opção
+-  Experiência em implantação de sistemas (Plataforma Educatech) na WM Tecnologia
+-  Buscando estágio em **Desenvolvimento Web**
 
 ## Tecnologias que utilizo
 
