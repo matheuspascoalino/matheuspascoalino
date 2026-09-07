@@ -1,13 +1,13 @@
 Meu nome é Matheus Pascoalino
 
-## Sobre mim
+ Sobre mim
 
 Estudante de Ciência da Computação na UNIP - São José dos Campos
 Técnico em Informática formado pela Escola Opção
 Experiência em implantação de sistemas (Plataforma Educatech) na WM Tecnologia
 Buscando estágio em Desenvolvimento Web
 
-#Tecnologias que utilizo
+ Tecnologias que utilizo
 
 [HTML5]
 [CSS3]
